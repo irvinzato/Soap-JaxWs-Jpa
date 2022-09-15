@@ -1,0 +1,6 @@
+org\rivera\webapp\jaxws\models\Curso.class
+org\rivera\webapp\jaxws\repositories\CursoRepository.class
+org\rivera\webapp\jaxws\services\CursoServicioWsImp.class
+org\rivera\webapp\jaxws\repositories\CursoRepositoryImp.class
+org\rivera\webapp\jaxws\ProducerEntityManager.class
+org\rivera\webapp\jaxws\services\CursoServicioWs.class
